@@ -6,15 +6,7 @@ export default function WatchPage() {
         Jujutsu Kaisen
       </h1>
 
-      <video
-        controls
-        className="w-full max-w-5xl rounded-2xl shadow-2xl"
-      >
-        <source
-          src="/videos/video_2026-03-31_04-35-50.mp4"
-          type="video/mp4"
-        />
-      </video>
+      */}
       <div className="flex gap-3 flex-wrap mt-8">
 
   <button className="bg-red-500 px-4 py-2 rounded-lg">
