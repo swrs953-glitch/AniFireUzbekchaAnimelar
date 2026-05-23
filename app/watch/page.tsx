@@ -6,7 +6,7 @@ export default function WatchPage() {
         Jujutsu Kaisen
       </h1>
 
-      */}
+     */
       <div className="flex gap-3 flex-wrap mt-8">
 
   <button className="bg-red-500 px-4 py-2 rounded-lg">
